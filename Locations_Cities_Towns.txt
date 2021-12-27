@@ -7,14 +7,20 @@ Gorvan Empire:
         Taverns:
             The Broken Tavern
                 - Phillip Bjorn
-                - Human / Age: 42 / Brown hair, beard / Russian Accent
+                - Human Male / Age: 42 / Brown hair, beard / Russian Accent
+                    - Dressed well, knows how to tend the bar and get drinks quickly
                 - Mission Board / Soldiers
 
             The Righteous Fly Inn
-                -
+                - Gron Durnask
+                - Human Male/ Age: 32 / Black hair / Raspy Voice
+                    - Has a distinct couple scars across the face, used to be a soldier for the Empire
+                - Mission Board / Contracts
 
             The Sweet Turtle Bar
-                -
+                - Kilas Sav
+                - Human Female / Age: 35 / Long Brown Hair / Deeper voice than usual
+                    - Wears a sports bra (Essentially) and shorts, looks rough around the edges
 
         General Store:
             The Dancing Boar
