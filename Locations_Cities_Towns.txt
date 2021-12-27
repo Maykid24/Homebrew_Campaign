@@ -36,28 +36,26 @@ Gorvan Empire:
 
         Blacksmith:
             The Storm Forge
-                - Testing
-
-
-
-                Hello
-
-
-                fklsdjflaj
-
-                dskfaj
-                dsklfja
+                - Konna Glev
+                - Human Female / Age: 30 / Long Black Hair / Regular female voice
+                    - Mainly dirty due to the work environment, wears a heavy apron
 
             The Inferno Forge
-                -
+                - Movlom Coldroot
+                - Human Male / Age: 24 / Short Black Hair / Parched Voice
+                    - Makes very well armor/weapons and can craft custom items
 
         Stables:
             Pegasus Ranch
-                -
+                - Kevim Mesk
+                - Human Male / Age: 45 / Brown and White Hair / old voice
+                    - Loves the horses and talks to them quite a bit
 
         Shipyard:
             Newcastle Landing
-                -
+                - Gef Stiloz
+                - Human Male / Age: 39 / Black Hair with Black Beard
+                    - Dresses nice, is a good persuasion talk person
 
 
     Drok (Small City):
