@@ -24,10 +24,15 @@ Gorvan Empire:
 
         General Store:
             The Dancing Boar
-                - Testing
+                - Ren Moltenspear
+                - Human Male / Age: 53 / Short White Hair / Quiet, old voice
+                    - Wears beat up clothing but has a nice shop
+
 
             The Golden Bird
-                -
+                - Brem Narun
+                - Human Male / Age: 34 / Bald with a large beard / Nasally voice
+                    - Dresses well and cleans quite a bit, easily distracted
 
         Blacksmith:
             The Storm Forge
