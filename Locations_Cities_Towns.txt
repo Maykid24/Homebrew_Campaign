@@ -1,0 +1,655 @@
+Locations/Cities/Towns:
+
+
+Gorvan Empire:
+
+    Zale (Big City):
+        Taverns:
+            The Broken Tavern
+                - Phillip Bjorn
+                - Human / Age: 42 / Brown hair, beard / Russian Accent
+                - Mission Board / Soldiers
+
+            The Righteous Fly Inn
+                -
+
+            The Sweet Turtle Bar
+                -
+
+        General Store:
+            The Dancing Boar
+                -
+
+            The Golden Bird
+                -
+
+        Blacksmith:
+            The Storm Forge
+                -
+
+            The Inferno Forge
+                -
+
+        Stables:
+            Pegasus Ranch
+                -
+
+        Shipyard:
+            Newcastle Landing
+                -
+
+
+    Drok (Small City):
+        Taverns:
+            The Wandering Bell
+                -
+
+        General Store:
+            The Glass River
+                -
+
+        Blacksmith:
+            The Unbreakable Anvil
+                -
+
+
+    Bline (Big City):
+        Taverns:
+            The Clever Hammer Pub
+                -
+
+            The Cute Wood Elf
+                -
+
+        General Store:
+            The Wicked Mask
+                -
+
+            The Growing Knife
+                -
+
+        Shipyard:
+            Old Port Landing
+                -
+
+        Blacksmith:
+            Smelts of Heaven
+                -
+
+        Armorer:
+            Fire It Up
+                -
+
+        Jewelery:
+            The Jasper Leaf
+                -
+
+        Glass Maker:
+            The Glowing Bull
+                -
+
+
+    Stawford (Small Town):
+        General Store:
+            The Baby Fish
+                -
+
+        Tavern:
+            The Last Goose
+                -
+
+        Shipyard:
+            Shark Bay Wharf
+                -
+
+
+    Erast (Medium Town):
+        Tavern:
+            The Spicy Ducks
+                -
+
+            The Dead Trout
+                -
+
+            The Juicy Egg Inn
+                -
+
+        General Store:
+            The Jumping Shrine
+                -
+
+            The Lonely Raven
+
+        Magic Store:
+            The Baby Cloak
+                -
+
+            The Angry Bite
+                -
+
+
+
+    Foolshope (Small Town):
+        Tavern:
+            The Lovely Sea
+                -
+
+        General Store:
+            The Glowing Cat
+                -
+
+
+________________________________________________________________________________________________________________________
+Land of Ice:
+
+    Bruuford (Big City):
+        Tavern:
+            The Rotten Inn
+                -
+
+            The Fixed Leg
+                -
+
+            The Empty Orc Inn
+                -
+
+            The Heavy Bar
+                -
+
+        Blacksmith:
+            The Burning Sword
+                -
+
+            The Dark Tower
+                -
+
+        General Store:
+            Teacoon
+                -
+
+            The Wild Giant
+                -
+
+            The Thunder Mark
+                -
+
+        Magic Store:
+            The Sad Stone
+                -
+
+    Suurduu (Small Town):
+        Tavern:
+            The Snobbish Twig
+                -
+
+        General Store:
+            Skindependent
+                -
+
+    Kiski (Medium Town):
+        Tavern:
+            The Last Boulder Bar
+                -
+
+            The Mushy Bagpipe Inn
+                -
+
+        General Store:
+            The Dark Mark
+                -
+
+            The Waving Tusk
+                -
+
+            Crease Lightning
+                -
+
+        Blacksmith:
+            The Heavy Oven
+                -
+
+            The Stormy Brush
+                -
+
+        Stables:
+            The Rare Bear
+                -
+
+________________________________________________________________________________________________________________________
+Twinland Empire:
+
+    Durlvi (Medium City):
+        Tavern:
+            The Waiting Cavern
+                -
+
+            The Bumpy Sea Inn
+                -
+
+        General Store:
+            The Curly Expanse
+                -
+
+            The Dry Grape
+                -
+
+            The Pretty Duck
+                -
+
+        Shipyard:
+            Oakwood Landing
+                -
+
+            New Wave Piers
+                -
+
+
+    Balsava (Medium City):
+        Tavern:
+            The Daily River
+                -
+
+            The Drunk Hand
+                -
+
+        General Store:
+            The Seeking Compass
+                -
+
+            The Earnest Tree
+                -
+
+        Shipyard:
+            Kings Bay Port
+                -
+
+    Fallkirk (Medium Town):
+        Tavern:
+            The Scary Oysters
+                -
+
+            The Icky Swallow
+                -
+
+        General Store:
+            The Vicious Growth
+                -
+
+            The Dry Knife
+                -
+
+            The Juicy Peacock
+                -
+
+    Pavv (Small Town):
+        Tavern:
+            The Twelve Steed
+                -
+
+        General Store:
+            The Broken Face
+                -
+
+        Shipyard:
+            Nightingale Landing
+                -
+
+            Ashland Landing
+                -
+
+________________________________________________________________________________________________________________________
+Land of Arial:
+
+    Olsa Thalor (Big City):
+        Tavern:
+            The Mysterious Pub
+                - Owner = Olivia Garven (Elf Woman - Sarcastic / Rough voice)
+
+            The Secret Celery
+                - Owner = Ardian Loft (Gnome - Quiet / Short and to the point)
+
+            The Pink Raven
+                - Owner = Almon Adhorn (Elf - Has a Pink Raven sitting on his shoulder / Russian Accent)
+
+        General Store:
+            Hibana Crafts
+                - Felix/Sandra Hibana
+
+            The False Weapons
+                -
+
+        Magic Store:
+            Liquids of Life and Death
+                - Brenna Hibana
+
+        Goldsmith:
+            The Golden Apple
+                -
+
+        Armorer:
+            The Last Steel You'll Ever Need
+                - Tafi Hibana
+
+        Blacksmith:
+            Metal Maniac
+                -
+
+        Shipyard:
+            Thunder Bay Piers
+                -
+
+        Jewelery:
+            The Crystal Clover
+                -
+
+________________________________________________________________________________________________________________________
+Land of Iron:
+
+    Sinhula (Small Town):
+        Tavern:
+            The Last Pig Pub
+                -
+
+        General Store:
+            The Shady Wall
+                -
+
+        Shipyard:
+            Little Oak Port
+                -
+
+________________________________________________________________________________________________________________________
+Land of Coal:
+
+    Smodiv (Small Town):
+        Tavern:
+            The Rainy Troll
+                -
+
+        General Store:
+            The Jolly Crow
+                -
+
+        Shipyard:
+            Greenport Wharf
+                -
+
+        Magic Store:
+            The Lazy Owl
+                -
+
+________________________________________________________________________________________________________________________
+Triple Dead Islands:
+
+    Volkrau (Small City):
+        Tavern:
+            The Wild Brain Inn
+                -
+
+        Shipyard:
+            Prisoner Point Harbor
+                -
+
+________________________________________________________________________________________________________________________
+Dwarven Island:
+
+    Kardim (Medium City):
+        Tavern:
+            The Foolish Toad
+                -
+
+            The Impossible Midget
+                -
+
+            The Diamond City Inn
+                -
+
+        Blacksmith:
+            The Smelt Belt
+                -
+
+            Blackstone Forge
+                -
+
+        General Store:
+            The Dark Cat
+                -
+
+        Magic Store:
+            The Dirty Jug
+                -
+
+        Shipyard:
+            Arrow Point Port
+                -
+
+            Sunken Reef Landing
+                -
+
+________________________________________________________________________________________________________________________
+Traders Cove:
+
+    Gronhus (Small Town):
+        Tavern:
+            The Best Cheese
+                -
+
+        Shipyard:
+            Saltend Landing
+                -
+
+
+
+    Magca (Small Town):
+        Tavern:
+            The Fragile Cheese
+                -
+
+        Shipyard:
+            Greymouth Piers
+                -
+
+    Aviva (Small Town):
+        Tavern:
+            The Green Cheese
+                -
+
+        Shipyard:
+            Hunter Port
+                -
+
+________________________________________________________________________________________________________________________
+Island of Secrets:
+
+    Uknown
+
+________________________________________________________________________________________________________________________
+Swamp Lands:
+
+    Louga (Medium City):
+        Tavern:
+            The Swampy Trolls
+                -
+
+            The Deep Shrub
+                -
+
+        General Store:
+            The Calculating Castle
+                -
+
+            The Rainy Frog
+                -
+
+        Blacksmith:
+            Blazing Trails
+                -
+
+
+    Butterpond (Small Town):
+        Tavern:
+            The Chilly Fish Tavern
+                -
+
+            The Green Pearl
+                -
+
+        Shipyard:
+            Salmon Bay Piers
+                -
+
+            Harter Wharf
+                -
+
+
+________________________________________________________________________________________________________________________
+Mordeau Dynasty:
+
+    Vlaco (Large City):
+        Tavern:
+            The Groovy Hawk
+                -
+
+            The Godly Ingot Tavern
+                -
+
+            The Mushy Trunk
+                -
+
+        General Store:
+            The Iron Elixir
+                -
+
+        Blacksmith:
+            Blue Blazes
+                -
+
+            Iron in the Fire
+                -
+
+            Clobbering Time
+                -
+
+        Stables:
+            The Jumbo Eagle
+                -
+
+    Blomberg (Small City):
+        Tavern:
+            The Round Nugget
+                -
+
+        General Stores:
+            The Misty Canvas
+                -
+
+        Blacksmith:
+            The Last Iron
+                -
+
+    Troutbeck (Medium Town):
+        Tavern:
+            Ye Olde Kangaroo
+                -
+
+            The Magenta Rhinoceros Inn
+                -
+
+        General Store:
+            The Grumpy Jester
+                -
+
+        Shipyard:
+            Breakwater Port
+                -
+
+    Xynnar (Small Town):
+        Tavern:
+            The Proud Bison
+                -
+
+        General Store:
+            The Dark Cloak
+                -
+
+    Fanfoss (Small Town):
+        Tavern:
+            The Ghost Bee
+                -
+
+        Shipyard:
+            The Port of Argar
+                -
+
+________________________________________________________________________________________________________________________
+Tuskus Dynasty:
+
+    Zog Zruba (Medium City):
+        Tavern:
+            The Cold Egg
+                -
+
+            The Frozen Bar
+                -
+
+        Blacksmith:
+            By Hammer and Hand
+                -
+
+        General Store:
+            The Swimming Giant
+                -
+
+        Magic Store:
+            The Blank Pencil
+                -
+
+    Urgo (Small Town):
+        Tavern:
+            The Late Panther
+                -
+
+        General Store:
+            The Shrugging Dwarf
+                -
+
+________________________________________________________________________________________________________________________
+Triplet Islands:
+
+    Hwen (Medium Town):
+        Tavern:
+            The Parallel Helm
+                -
+
+            The Bad Lions Bar
+                -
+
+        General Store:
+            The Thirsty Ticker
+                -
+
+        Shipyard:
+            Angel Wharf
+                -
+
+    Galssod (Medium Town):
+        Tavern:
+            The Hot Crab Tavern
+                -
+
+            The Late Star
+                -
+
+        Magic Store:
+            Clean Getaway
+                -
+
+        Shipyard:
+            Barpar Piers
+                -
+
+________________________________________________________________________________________________________________________
+Land of the Dead:
+
+    Hofslond (Large City):
+        Abandoned - Filled with the undead
