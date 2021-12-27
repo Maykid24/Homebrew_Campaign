@@ -36,7 +36,17 @@ Gorvan Empire:
 
         Blacksmith:
             The Storm Forge
-                -
+                - Testing
+
+
+
+                Hello
+
+
+                fklsdjflaj
+
+                dskfaj
+                dsklfja
 
             The Inferno Forge
                 -
