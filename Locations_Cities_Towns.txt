@@ -232,90 +232,118 @@ Land of Ice:
 
             The Fixed Leg
                 - Lalok Treeherder Elanigone
-                - Goliath Male
+                - Goliath Male / Age: 33 / Tattoos all over
+                    - Grunts a lot during the speech, rough talker
+                - Missions / Contracts / Monster Hunts
 
             The Empty Orc Inn
-                - Grul The Cold
+                - Grul The Cold / Age: 35 / Large Tusks, ponytail with black hair
                 - Orc Male
+                    - Calls small individuals weak, until proven otherwise
+                - Contracts / Monster Hunts
 
             The Heavy Bar
-                - Nerrugg
+                - Nerrugg / Age: 40 / A little scrubby on the clothes
                 - Goblin Male
+                    - A little crazy, talks kind of squeaky and fast, laughs from time to time
+                Missions / Monster Hunts
 
         Blacksmith:
             The Burning Sword
-                - Broton
+                - Broton / Age: 30 / Fur all around with a couple spots that don't allow fur to grow anymore
                 - BugBear Male
+                    - Speaks slowly, Deep voice
 
             The Dark Tower
-                - Koorut Thickheart
+                - Koorut Thickheart / Age: 50 / Long horns, large nose ring
                 - Minotaur Male
+                    - Speaks in short sentences, rough voice
 
         General Store:
             Teacoon
-                - Belmir Brokenfist
+                - Belmir Brokenfist / Age: 36 / Salty White Hair, birthmark around left eye
                 - Duergar Male
+                    - Hates the light, calls people out that isn't cooperating
 
             The Wild Giant
-                - Ogolf
+                - Ogolf / Age: 32 / White Hair, Blue Skin, massive Great Axe on the back
                 - Frost Giant Male
+                    - Tall 17' Foot tall Giant, speaks with a deep voice
 
             The Thunder Mark
-                - Gelri Thundercarver Agu-Ulaga
+                - Gelri Thundercarver Agu-Ulaga / Age: 48
                 - Goliath Female
+                    - Tattoos running alongside of the right side of the face
+                    - Speaks lightly but punctual
 
         Magic Store:
-            The Sad Stone
+            The Sad Stone/ Age: 23 / White Hair, scar running along the neck
                 - Zurblir Masoncleaner
                 - Deep Gnome Male
+                    - Quick talker, weird laugh at the end of sentences
 
     Suurduu (Small Town):
         Tavern:
             The Snobbish Twig
-                - Qirdro
+                - Qirdro / Age: 26 / Somewhat bald with Black Hair
                 - Goblin Female
+                    - Straight to the point talker, quick-witted
+                - Missions / Monster Hunts
 
         General Store:
             Skindependent
-                - Naltuk Tazgrax
+                - Naltuk Tazgrax / Age: 30 / Bald, Gold Dragon
                 - Dragonborn Male
+                    - Soft Spoken, easy going
 
     Kiski (Medium Town):
         Tavern:
             The Last Boulder Bar
-                - Throllen
+                - Throllen / Age: 40 / Great sword on his back, some massive scars across his body
                 - Frost Giant Male
+                    - 18' Foot tall, quick with drinks and rough talking
+                - Monster Hunts
 
             The Mushy Bagpipe Inn
-                - Zaukin Truthvigor Kalagupine
+                - Zaukin Truthvigor Kalagupine/ Age: 25 / Only has one good arm, the other is split
                 - Goliath Male
+                    - Challenges Travellers to a game of cards, and tries to get Travellers to do Monster Hunts to
+                        prove themselves
+                - Contracts / Monster Hunts
 
         General Store:
             The Dark Mark
-                - Ghink
+                - Ghink / Age: 21 / Massively fury, not many scars, looking for a new start
                 - Bugbear Male
+                    - Barely speaks to anyone, likes to barter and speaks more if they barter
 
             The Waving Tusk
-                - Theric Sunrest
+                - Theric Sunrest / Age: 29 / Very tall and methodical
                 - Forbolg Male
+                    - Slow talker, comes off very friendly to anyone
 
             Crease Lightning
-                - Jarrak Boldpelt
+                - Jarrak Boldpelt / Age: 35 / One horn is completely broken off, the other is extremely sharp
                 - Minotaur Male
+                    - Grunts to speak, very blunt
 
         Blacksmith:
             The Heavy Oven
-                - Muulen Stoutfist
+                - Muulen Stoutfist / Age: 33 / Two horn tusks, large brand on her
                 - Minotaur Female
+                    - Good talker, talks about Jarrak (Owner of Crease Lightning) a lot, has a crush on him
 
             The Stormy Brush
-                - Arkon Daywatcher Vunakelo
+                - Arkon Daywatcher Vunakelo / Age: 31 / Tribal Tattoos from top to bottom
                 - Goliath Male
+                    - Groggly voice
 
         Stables:
-            The Rare Bear
+            The Rare Bear / Age: 30 / Dragon Tattoos
                 - Galane Highcook Munakakume
                 - Goliath Female
+                    - Likes working with monster mounts, soft around the edges for a Goliath
+
 
 ________________________________________________________________________________________________________________________
 Twinland Empire:
@@ -323,12 +351,14 @@ Twinland Empire:
     Durlvi (Medium City):
         Tavern:
             The Waiting Cavern
-                - Nesica Havengather
+                - Nesica Havengather / Age: 27 / Long Brown hair in a ponytail
                 - Halfling Female
+                    - A spitfire, and very fiesty
 
-            The Bumpy Sea Inn
+            The Bumpy Sea Inn / Age: 22 / Brown short hair
                 - Ahlan Shanu
                 - Human Male
+                    -
 
         General Store:
             The Curly Expanse
