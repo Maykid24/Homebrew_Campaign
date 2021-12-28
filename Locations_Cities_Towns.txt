@@ -139,24 +139,38 @@ Gorvan Empire:
     Stawford (Small Town):
         General Store:
             The Baby Fish
-                -
+                - Sedac Niketva
+                - Human Male / Age: 34 / Bald
+                    - Russian Accent, very straight forward
 
         Tavern:
             The Last Goose
-                -
+                - Sazzu Tuskarrow
+                - Human Female / Age: 43 / Blonde Hair
+                    - Likes to wonder about, carry out different conversations
+                - Mission List / Contracts / Monster Hunting
 
         Shipyard:
             Shark Bay Wharf
-                -
+                - Hal Bokiz
+                - Human Male / Age: 52 / Blonde Hair
+                    - Has scars across arms and face, rough voice
+                - Contracts / Monster Hunting
 
 
     Erast (Medium Town):
         Tavern:
             The Spicy Ducks
-                -
+                - Mordil Steg
+                - Human Male / Age: 72 / White Hair
+                    - Old Voice, talks slow, some torn clothes, has been through the previous War
+                - Missions
 
             The Dead Trout
-                -
+                - Ridril Glen
+                - Human Male / Age: 30 / Brown Hair
+                    - Doesn't have a leg, uses a cane to walk around with
+                - Missions / Contrats
 
             The Juicy Egg Inn
                 -
