@@ -61,51 +61,79 @@ Gorvan Empire:
     Drok (Small City):
         Taverns:
             The Wandering Bell
-                -
+                - Gron Chiraz
+                - Human Male / Age: 30 / Red Hair
+                    - Rough around the edges but will listen to anyone
+                - Mission Board
 
         General Store:
             The Glass River
-                -
+                - Kathil Karsk
+                - Human Female / Age: 33 / Blonde Hair
+                    - Soft Spoken, a cluts
 
         Blacksmith:
             The Unbreakable Anvil
-                -
+                - Teli Gliv
+                - Human Female / Age: 29 / Brown Hair
+                    - Rough voice, can be harsh at times
 
 
     Bline (Big City):
         Taverns:
             The Clever Hammer Pub
-                -
+                - Ardaf Den
+                - Human Male / Age: 38 / Black Hair
+                    - Sarcastic, easy to work with
+                - Contracts
 
             The Cute Wood Elf
-                -
+                - Adrona Boldsense
+                - Elf Female / Age: 238 / Long Blonde Hair
+                    - Previous Prisoner of the Empire
+                    - Polite and seems like she has a hidden agenda, Soft Spoken
+                - Contracts / Mission Board
 
         General Store:
             The Wicked Mask
-                -
+                - Boven Mask
+                - Human Male / Age: 54 / White Hair and White Beard
+                    - Raspy voice, Old
 
             The Growing Knife
-                -
+                - Liam Wiaom
+                - Human Male / Age: 65 / White Hair
+                    - Massively muscular and in great shape, has nasally voice
 
         Shipyard:
             Old Port Landing
-                -
+                - Kolma Kadz
+                - Human Female / Age: 22 / Brown Hair
+                    - Knows her way around a boat, has somewhat of a pirate slang
 
         Blacksmith:
             Smelts of Heaven
-                -
+                - Mevil Rask
+                - Human Male / Age: 31 / Red Hair
+                    - Gritty Voice, Scottish sounding
 
         Armorer:
             Fire It Up
-                -
+                - Foson Dug
+                - Human Male / Age: 42 / White/Brown Hair
+                    - Quiet, takes custom orders
 
         Jewelery:
             The Jasper Leaf
-                -
+                - Carel Grodz
+                - Human Female / Age: 35 / Red/Brown Hair
+                    - Lightly spoken, but makes custom jewelery
 
         Glass Maker:
             The Glowing Bull
-                -
+                - Kizar Shon
+                - Human Male / Age: 28 / White Hair
+                    - Focuses solely on creating crafts, harsh voice
 
 
     Stawford (Small Town):
