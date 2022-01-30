@@ -1,1 +1,4 @@
 Custom Rules:
+
+Changing the level of the spells, etc.
+    Being able to change the level of the spell with a lower effective then the original spell itself
