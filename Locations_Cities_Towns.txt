@@ -479,36 +479,43 @@ Land of Arial:
             The False Weapons
                 - Rodan Bluegift
                 - Elf Male
+                    - Nice and outgoing
 
         Magic Store:
             Liquids of Life and Death
                 - Brenna Hibana
                 - Gnome Female
+                    - Little bit shady, quiet in nature
 
         Goldsmith:
             The Golden Apple
                 - Sarven Moonfall
                 - Elf Male
+                    - Sleight of hand expert, Genuine - High and mighty voice
 
         Armorer:
             The Last Steel You'll Ever Need
                 - Tafi Hibana
                 - Gnome Female
+                    - Rough around the edges
 
         Blacksmith:
             Metal Maniac
                 - Inara Lightshard
                 - Elf Female
+                    - Fluent, straight to the point
 
         Shipyard:
             Thunder Bay Piers
                 - Glynro Surish
                 - Elf Male
+                    - Aye matey!!!
 
         Jewelery:
             The Crystal Clover
                 - Calbar Boldstamp
                 - Gnome Male
+                    - Wears glasses, little bit chirpy, patience of a squirrel
 
 ________________________________________________________________________________________________________________________
 Land of Iron:
@@ -536,22 +543,23 @@ Land of Coal:
         Tavern:
             The Rainy Troll
                 - Ulan Dukar
-                - Human Male
+                - Human Male - Genuine nice, easy to talk to. Soft Spoken
 
         General Store:
             The Jolly Crow
                 - Vil Shurdon
-                - Human Female
+                - Human Female - Nice and easy, more of a mother figure than a store owner
 
         Shipyard:
             Greenport Wharf
                 - Trylon
-                - Githyanki Male
+                - Githyanki Male - Rough around the edges, can have a mean temper at times
 
         Magic Store:
             The Lazy Owl
                 - Ardem Glidz
-                - Human Male
+                - Human Male - A little crazy... Has a crazy laugh from time to time and always interested in what
+                    people wear. Has somewhat of a high pitch voice at times
 
 ________________________________________________________________________________________________________________________
 Triple Dead Islands:
