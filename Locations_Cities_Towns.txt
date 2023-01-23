@@ -448,7 +448,7 @@ Twinland Empire:
     Pavv (Small Town):
         Tavern:
             The Twelve Steed
-                - Glizir Ridz / Age: /
+                - Glizir Ridz / Age: 38 /
                 - Human Female
 
         General Store:
