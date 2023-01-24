@@ -448,22 +448,26 @@ Twinland Empire:
     Pavv (Small Town):
         Tavern:
             The Twelve Steed
-                - Glizir Ridz / Age: 38 /
+                - Glizir Ridz / Age: 38 / Blonde and brown hair
                 - Human Female
+                    - Enthusiastic, cheerful, helpful
 
         General Store:
             The Broken Face
-                - Mazi Spiritsun / Age: /
+                - Mazi Spiritsun / Age: 47 / Blonde hair, has a nice scar across the face
                 - Human Female
+                    - Rough voice, likes to talk
 
         Shipyard:
             Nightingale Landing
-                - Glim Sharug / Age: /
+                - Glim Sharug / Age: 34 / Brown short hair, clean cut, massive beard
                 - Human Male
+                    - Harsh and strict, keeps things moving
 
             Ashland Landing
-                - Bilbis Hirnedig / Age: /
+                - Bilbis Hirnedig / Age: 58 / Brown hair, has a limp
                 - Gnome Male
+                    - Very friendly, likes talking to visitors and outsiders to learn about the world
 
 ________________________________________________________________________________________________________________________
 Land of Arial:
@@ -605,44 +609,55 @@ Dwarven Island:
     Kardim (Medium City):
         Tavern:
             The Foolish Toad
-                - Regmir Graypass / Age: /
+                - Regmir Graypass / Age: 78 / Wears a helmet, long brown beard
                 - Dwarf Male
+                    - Straight to the point with outsiders, but gets nicer when he gets to know people, deep voice
 
             The Impossible Midget
-                - Thornur Ironaxe / Age: /
+                - Thornur Ironaxe / Age: 87 / Long red beard, shaved head on both sides with a long middle hair
                 - Dwarf Male
+                    - Smaller than most dwarves but definitely packs a punch, has a little bit of a higher voice
 
             The Diamond City Inn
-                - Anlin Laerek / Age: /
+                - Anlin Laerek / Age: 56 / Long red hair with a beard
                 - Dwarf Female
+                    - Likes to joke with people, has a harsh scottish accent
 
         Blacksmith:
             The Smelt Belt
-                - Tordek Kindhand / Age: /
+                - Tordek Kindhand / Age: 254 / Long black beard, looks like he's gone through many wars
                 - Dwarf Male
+                    - Calm personality, harsh when people joke about war, always working regardless if he's making a deal
 
             Blackstone Forge
-                - Dalrik Dukinick / Age: /
+                - Dalrik Dukinick / Age: 239 / Clean shaved top head, long white beard
                 - Dwarf Male
+                    - Always ends in `AY` can get some times annoying
 
         General Store:
             The Dark Cat
-                - Edwin Blackbranch / Age: /
+                - Edwin Blackbranch / Age: 256 / White hair, white beard
                 - Dwarf Female
+                    - Is your typical cat lady person, has cats everywhere in the shop, sometimes things happen and cats
+                        turn into something or push something off the counters
 
         Magic Store:
             The Dirty Jug
-                - Arva Struldirr / Age: /
+                - Arva Struldirr / Age: 255 / White hair, tiny white beard
                 - Dwarf Female
+                    - Always seems to have a potion in her hand along with being right up next to people when she talks
 
         Shipyard:
             Arrow Point Port
-                - Farnir Wildeye / Age: /
+                - Farnir Wildeye / Age: 154 / Brown hair, part of a brown beard, can clearly see a scar on one side of
+                    the face
                 - Dwarf Male
+                    - Wary of the sea, but never afraid of death. Can have a harsh voice, coughs every now and then
 
             Sunken Reef Landing
-                - Amrim Everbelt / Age: /
+                - Amrim Everbelt / Age: 183 / White hair and white beard
                 - Dwarf Male
+                    - Nice for the most part, gives an eye look from time to time that makes people uncomfortable
 
 ________________________________________________________________________________________________________________________
 Traders Cove:
@@ -650,35 +665,43 @@ Traders Cove:
     Gronhus (Small Town):
         Tavern:
             The Best Cheese
-                - Fultul Tazseth / Age: /
+                - Fultul Tazseth / Age: 43 / Red Dragonborn, long tail, has piercings all over face
                 - Dragonborn Male
+                    - Talks in short sentences, likes to have fun
 
         Shipyard:
             Saltend Landing
-                - Glof Fluvrig / Age: /
+                - Glof Fluvrig / Age: 34 / Brown hair, scraggy beard
                 - Human Male
+                    - Always seem to have a bottle in his hand and a little bit drunk (All a complete act)
 
     Magca (Small Town):
         Tavern:
             The Fragile Cheese
-                - Coh Vekron / Age: /
+                - Coh Vekron / Age: 38 / Long brown hair, very petite
                 - Human Female
+                    - Very fierce, will knock someone out if touched inappropriately, has the backing of the entire tavern
 
         Shipyard:
             Greymouth Piers
-                - Trem Snowwind / Age: /
+                - Trem Snowwind / Age: 45 / Clean shaved head with tattoos everywhere
                 - Human Male
+                    - Straight to the point, doesn't beat around the bush, harsh voice (If group looks closely the tattoos
+                        are actually magic runes embedded into his skin)
 
     Aviva (Small Town):
         Tavern:
             The Green Cheese
-                - Tror Fernmourn / Age: /
+                - Tror Fernmourn / Age: 25 / Red hair, looks young
                 - Human Male
+                    - Soft spoken, young, came to the traders cove to evade getting sent to prison (Tried to kill a noble
+                        for taking his sister, Noble apart of Gorvan Empire)
 
         Shipyard:
             Hunter Port
-                - Xua Yam / Age: /
+                - Xua Yam / Age: 37 / Very fine black streak hair, very long
                 - Human Female
+                    - Has weapons all over, speaks in an asian accent
 
 ________________________________________________________________________________________________________________________
 Island of Secrets:
@@ -691,46 +714,57 @@ Swamp Lands:
     Louga (Medium City):
         Tavern:
             The Swampy Trolls
-                - Zeg / Age: /
+                - Zeg / Age: 134 / Green troll
                 - Troll Male
+                    - Actually incredibly smart and wise but knows how to slam things and break things
 
             The Deep Shrub
-                - Pluott / Age: /
+                - Pluott / Age: 23 / Large tortle, scars all over the shell
                 - Tortle Male
+                    - Very nice, speaks a little slow, moves around slow (An act) but can actually move insanely fast
 
         General Store:
             The Calculating Castle
-                - Mezad Dehro / Age: /
+                - Mezad Dehro / Age: 36 / White hair, rough around the edges, looks to have been through some really bad
+                    stuff
                 - Human Male
+                    - A little rough around the edges, has a deep accent
 
             The Rainy Frog
-                - Grok / Age: /
+                - Grok / Age: 38 / Extremely green (Spending too much time in the swamp)
                 - Hobgoblin Male
+                    - A little bit crazy... okay a lot crazy
 
         Blacksmith:
             Blazing Trails
-                - Orstug Whitmaw / Age: /
+                - Orstug Whitmaw / Age: 41 / Always covered in black due to working so much
                 - Human Male
+                    - Likes to talk to outsiders and give them help when needed, nice person
 
 
     Butterpond (Small Town):
         Tavern:
             The Chilly Fish Tavern
-                - Droddig / Age: /
+                - Droddig / Age: 94 / Green with purple tint skin
                 - Troll Female
+                    - Grunts a lot and slams a lot, throws people out from time to time
 
             The Green Pearl
-                - Morstina / Age: /
+                - Morstina / Age: 211 / Scars all over from various fights/creatures
                 - Treant Male
+                    - Very knowledgeable, knows quite a bit about the world especially the swamp
 
         Shipyard:
             Salmon Bay Piers
-                - Talo Vetsk / Age: /
+                - Talo Vetsk / Age: 41 / Long blonde hair, somewhat on the heavier side
                 - Human Female
+                    - Really mean and vicious at times, harsh / high pitch voice
 
             Harter Wharf
-                - Jelur Jina / Age: /
+                - Jelur Jina / Age: 37 / Brown hair pulled up
                 - Human Male
+                    - Nice individual, doesn't like the other Shipyard person too much. Will give tips for those he thinks
+                        need it
 
 
 ________________________________________________________________________________________________________________________
@@ -739,97 +773,119 @@ Mordeau Dynasty:
     Vlaco (Large City):
         Tavern:
             The Groovy Hawk
-                - Ilven Ichyn / Age: /
+                - Ilven Ichyn / Age: 329 / Long sleek white hair
                 - Drow Male
+                    - Extremely pronounced with a slight elvish accent, has quite a bit of knowledge of the past
 
             The Godly Ingot Tavern
-                - Jysue Arabath / Age: /
+                - Jysue Arabath / Age: 149 / Long sleek white hair
                 - Drow Female
+                    - Elvish accent, always doing something, never stops moving
 
             The Mushy Trunk
-                - Somak / Age: /
+                - Somak / Age: 43 / Brownish hair, more orc than human
                 - Half-Orc Male
+                    - Rough voice, always likes to see fights happen
 
         General Store:
             The Iron Elixir
-                - Goroz / Age: /
+                - Goroz / Age: 36 / Black hair, one long orc tooth
                 - Half-Orc Male
+                    - Wary of outsiders, extremely nice, likes to barter quite a bit
 
         Blacksmith:
             Blue Blazes
-                - Cudgurg / Age: /
+                - Cudgurg / Age: 28 / Has many contraptions that help his work
                 - Goblin Male
+                    - Likes to make deals and see if he can take advantage of outsiders, sleazy voice
 
             Iron in the Fire
-                - Vrag / Age: /
+                - Vrag / Age: 45 / Has many contraptions to whip around the shop
                 - Goblin Male
+                    - Nice for the most part, doesn't like when people see him as a goblin, quick voice
 
             Clobbering Time
-                - Tubar / Age: /
+                - Tubar / Age: 40 / Has scars everywhere that you can see
                 - Half-Orc Male
+                    - Short voice, harsh, calls others weaklings
 
         Stables:
             The Jumbo Eagle
-                - Jeglan Arguae / Age: /
+                - Jeglan Arguae / Age: 204 / White sleek white hair
                 - Drow Male
+                    - Elvish accent, straight forward and proper
+                    - Camels / Eagles as transportation
+                        - Camels: 10gp per day
+                        - Eagles: 20gp per day
 
     Blomberg (Small City):
         Tavern:
             The Round Nugget
-                - Chadlue Philarr / Age: /
+                - Chadlue Philarr / Age: 150 / White sleek hair
                 - Drow Female
+                    - Elvish accent, extremely nice and a little bit out there
 
         General Stores:
             The Misty Canvas
-                - Zorigak / Age: /
+                - Zorigak / Age: 28 / More human than orc
                 - Half-Orc Male
+                    - Rough voice, but extremely pleasent to be around
 
         Blacksmith:
             The Last Iron
-                - Arosha / Age: /
+                - Arosha / Age: 47 / Has a few scars across the face, clean shaved, both teeth coming out
                 - Half-Orc Female
+                    - Extremely harsh and rude at times, rough voice
 
     Troutbeck (Medium Town):
         Tavern:
             Ye Olde Kangaroo
-                - Marras / Age: /
+                - Marras / Age: 33 / Patches of brown hair, can move around fairly quickly
                 - Goblin Male
+                    - Goblinish voice, sleek, quick, grabs money the fastest
 
             The Magenta Rhinoceros Inn
-                - Smugeyes / Age: /
+                - Smugeyes / Age: 54 / Has one sleek scar across the face
                 - Goblin Female
+                    - Goblin accent, nice and knowledgeable, has scrolls that show treasure maps for a fee
 
         General Store:
             The Grumpy Jester
-                - Mullirk / Age: /
+                - Mullirk / Age: 31 / Bald, looks like One Eyed Moody but goblin form
                 - Goblin Male
+                    - Goblin accent, Eyes always shifting around, thinks everyone steals from him
 
         Shipyard:
             Breakwater Port
-                - Dinin Baenre / Age: /
+                - Dinin Baenre / Age: 172 / Sleek white hair
                 - Drow Female
+                    - Elvish accent, proper, to the point, can also be extremely nice under the right circumstances
 
     Xynnar (Small Town):
         Tavern:
             The Proud Bison
-                - Nym Dhunnyl / Age: /
+                - Nym Dhunnyl / Age: 187 / Sleek white hair
                 - Drow Male
+                    - Elvish accent, Looks to be previous military of the Mordeau Dynasty, very military like
 
         General Store:
             The Dark Cloak
-                - Pigface / Age: /
+                - Pigface / Age: 43 / Bald head with a couple hairs coming out of the head
                 - Goblin Male
+                    - Imagine Golem (Precious!!!)
 
     Fanfoss (Small Town):
         Tavern:
             The Ghost Bee
-                - Wartbrain / Age: /
+                - Wartbrain / Age: 34 / Part of the skull is missing and can clearly see the brain
                 - Goblin Male
+                    - A little bit crazy
 
         Shipyard:
             The Port of Argar
-                - Agomur / Age: /
+                - Agomur / Age: 45 / Long brown hair
                 - Half-Orc Male
+                    - Surprisingly extremely polite, southernish accent
 
 ________________________________________________________________________________________________________________________
 Tuskus Dynasty:
@@ -837,38 +893,46 @@ Tuskus Dynasty:
     Zog Zruba (Medium City):
         Tavern:
             The Cold Egg
-                - Modak The Ugly / Age: /
+                - Modak The Ugly / Age: 54 / Scars and tattoos fill his body
                 - Orc Male
+                    - Extremely harsh voice, wary of outsiders
 
             The Frozen Bar
-                - Dron The Powerful / Age: /
+                - Dron The Powerful / Age: 48 / Scars here and there from creatures
                 - Orc Male
+                    - Surprisingly a little bit cold in the bar even with fire going
+                    - Harsh voice, quick sentences, upcharges visitors that haven't proven themselves
 
         Blacksmith:
             By Hammer and Hand
-                - Rev The Lethal / Age: /
+                - Rev The Lethal / Age: 28 / Insanely muscular weaving 100lbs with ease
                 - Orc Female
+                    - Rough voice, can make anything
 
         General Store:
             The Swimming Giant
-                - Vuh The Fearless / Age: /
+                - Vuh The Fearless / Age: 43 / Scars from head to toe, extremely tall for an Orc 8'6"
                 - Orc Female
+                    - Harsh voice, a little bit slow, somewhat polite for an Orc
 
         Magic Store:
             The Blank Pencil
-                - Ardus / Age: /
+                - Ardus / Age: 568 / Large scar going across the chest, runic tattoos around the body
                 - Stone Giant Male
+                    - Polite and gentle, knows more about the lands than most
 
     Urgo (Small Town):
         Tavern:
             The Late Panther
-                - Naldi / Age: /
+                - Naldi / Age: 239 / Battle ready with a massive battle axe, red streak hair
                 - Fire Giant Female
+                    - Little bit wary of outsiders, harsh voice that echoes
 
         General Store:
             The Shrugging Dwarf
-                - Ghal Skin Brand / Age: /
+                - Ghal Skin Brand / Age: 43 / Brownish hair, smaller than most Orcs 5'1"
                 - Orc Male
+                    - Polite, soft-spoken, not your typical orc
 
 ________________________________________________________________________________________________________________________
 Triplet Islands:
@@ -876,42 +940,50 @@ Triplet Islands:
     Hwen (Medium Town):
         Tavern:
             The Parallel Helm
-                - Harum Mohla / Age: /
+                - Harum Mohla / Age: 41 / White sleek hair into a pony tail
                 - Human Male
+                    - Harsh personality, can be nice at times
 
             The Bad Lions Bar
-                - Balro Bronzecloud / Age: /
+                - Balro Bronzecloud / Age: 222 / Long sleek blonde hair
                 - Elf Male
+                    - Nice, but can be extremely mean, insanely good shot with the bow
 
         General Store:
             The Thirsty Ticker
-                - Ventrana / Age: /
+                - Ventrana / Age: 39 / Long red hair, a few scars around the face
                 - Half-Elf Female
+                    - Flirtatious accent but always carries around two different daggers
 
         Shipyard:
             Angel Wharf
-                - Glynven Goldpride / Age: /
+                - Glynven Goldpride / Age: 99 / Bald, looks to have a mark of a prisoner on the neck
                 - Firbolg Male
+                    - Pirates voice, likes rum
 
     Galssod (Medium Town):
         Tavern:
             The Hot Crab Tavern
-                - Gikath / Age: /
+                - Gikath / Age: 87 / Long black hair
                 - Githyanki Male
+                    - Has a hiss when talking, rough voice, always carries around a sabre
 
             The Late Star
-                - Fasven Stoutfury / Age: /
+                - Fasven Stoutfury / Age: 55 / Brown hair, one horn looks to be broken off
                 - Minotaur Female
+                    - Always does a huff, can be mean, but usually is nice with a rough voice
 
         Magic Store:
             Clean Getaway
-                - Jirdled / Age: /
-                - Torle Male
+                - Jirdled / Age: 61 / Likes to do potion making in his shell
+                - Tortle Male
+                    - Southern accent twang, slow talker
 
         Shipyard:
             Barpar Piers
-                - Snailbrain / Age: /
+                - Snailbrain / Age: 24 / Scars around the body, prisoner stamp right on the chest
                 - Goblin Male
+                    - Extremely quick witted with people, tries to con some while doing business with others
 
 ________________________________________________________________________________________________________________________
 Land of the Dead:
