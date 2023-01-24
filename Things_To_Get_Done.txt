@@ -1,0 +1,41 @@
+Items to get done prior to start of Campaign:
+
+    - Map changes to not be flat borders but different and wavy
+        - Build Towns / Cities
+
+    - Create well known people
+        - Kings / Queens / Emperors
+        - Guard Captains
+        - Ship Captains
+            - 2nd Mates
+        - Generals / Admirals
+
+    - List of random ship names, etc.
+
+    - Ship Platform
+        - Ship Stats
+        - Ship Costs
+        - Ship Weapons
+        - Movement, etc.
+
+    - Stables
+        - Cost of Animals, etc.
+
+    - Encounters
+        - Random Land / Sea encounters
+            - Dice rolls, etc.
+
+    - Weather Encounters
+        - Random weather events
+            - Dice rolls, etc.
+
+    - Missions
+        - Bounty Boards
+        - Expeditions
+        - Courier
+        - Espionage
+        - Monster Hunts
+
+    - Main Quest Missions
+        - Get group back on track or have a purpose
+        - Mini bosses leading up to the big boss
