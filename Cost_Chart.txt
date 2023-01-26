@@ -1,0 +1,8 @@
+Ships:
+    - Rowboat = 50gp
+    - Keelboat = 3,000gp
+    - Longship = 10,000gp
+    - Sailing Ship = 10,000gp
+    - Warship = 25,000gp
+    - Galley = 30,000gp
+
