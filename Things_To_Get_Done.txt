@@ -12,12 +12,6 @@ Items to get done prior to start of Campaign:
 
     - List of random ship names, etc.
 
-    - Ship Platform
-        - Ship Stats
-        - Ship Costs
-        - Ship Weapons
-        - Movement, etc.
-
     - Stables
         - Cost of Animals, etc.
 
