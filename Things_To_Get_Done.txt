@@ -2,18 +2,9 @@ Items to get done prior to start of Campaign:
 
     - Map changes to not be flat borders but different and wavy
         - Build Towns / Cities
-
-    - Create well known people
-        - Kings / Queens / Emperors
-        - Guard Captains
-        - Ship Captains
-            - 2nd Mates
-        - Generals / Admirals
+        - Built but needs to be built in inkarnate
 
     - List of random ship names, etc.
-
-    - Stables
-        - Cost of Animals, etc.
 
     - Encounters
         - Random Land / Sea encounters

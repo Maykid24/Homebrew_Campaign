@@ -1,0 +1,18 @@
+Encounters:
+    - Roll 1d20
+        - Higher than 18 = Encounter
+
+    - If encounter occurs:
+        - Roll 1d20
+        - 1-10 Bad encounter (Enemy creatures)
+        - 11-20 Good encounter (Friendly creatures)
+
+    DMG Page: 302
+
+    Difficulty: DMG pg. 82
+        - Current Level: 3
+            - Easy: 375
+            - Medium: 750
+            - Hard: 1,125
+            - Deadly: 2,000
+
