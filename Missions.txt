@@ -1,1 +1,13 @@
 Missions:
+    - Courier
+    - Killing Monsters
+    - Investigations
+    - Escort Missions
+    - Helping Local Population
+    - Mysterious Sightings
+    - Raids
+    - Protect / Guard for X amount of time
+    - Lost Treasure Expedition
+    - Espionage / Destroy
+    - Attain an Item
+    - Hunting Specific Animals

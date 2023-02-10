@@ -6,7 +6,7 @@ Max Level: 20
 Campaign Map: 
 	Map Drawn (See Whiteboard)
 	- Two Mainlands with islands throughout the sea
-		- Left Mainland: Snow to the north / Green and Forest in the middle / Swamp and Forest to the south
+		- Left Mainland: Snow to the north / Swamp and Forest in the middle / Green and Forest to the south
 		- Right Mainland: Ice to the south / Desert in the middle / Snow and Mountains to the north
 			- Separated by a sea: 200km
 		- Group of Islands to the north
