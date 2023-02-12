@@ -91,8 +91,8 @@ desert = {
     1: {'Name': 'Cat, Commoner, Hyena, Jackal, Scorpion, Vulture', 'CR': '10XP, 0'},
     2: {'Name': 'Bandit, Camel, Flying Snake, Guard, Kobold, Mule, Poisonous Snake, Stirge,'
                 'Tribal Warrior, Young Kruthik', 'CR': '25XP, 1/8'},
-    3: {'Name': 'Constrictor Snake, Giant Lizard, Giant Poisonous Snake, Giant Wolf Spider, Pseudodragon, Winged Kobold'
-        , 'CR': '50XP, 1/4'},
+    3: {'Name': 'Constrictor Snake, Giant Lizard, Giant Poisonous Snake, Giant Wolf Spider, Pseudodragon, '
+                'Winged Kobold', 'CR': '50XP, 1/4'},
     4: {'Name': 'Dust Mephit, Gnoll, Hobgoblin, Jackalwere, Scout, Swarm of Insects, Firenewt Warrior',
         'CR': '100XP, 1/2'},
     5: {'Name': 'Death Dog, Giant Hyena, Giant Spider, Giant Toad, Giant Vulture, Half-Ogre, Lion,'
@@ -404,13 +404,17 @@ urban = {
                  'Necromancer Wizard, Shadar-Kai Gloom Weaver, War Priest', 'CR': '5000XP, 9'},
     14: {'Name': 'Elder Oblex, Githyanki Gish, Githzerai Enlightened, Orthon', 'CR': '5900XP, 10'},
     15: {'Name': 'Alkilith, Hungry Sorrowsworn, Shadar-Kai Soul Monger, Yagnoloth', 'CR': '7200XP, 11'},
-    14: {'Name': 'Archmage, Boneclaw, Eidolon, Githyanki Kith-rak, Warlord', 'CR': '8400XP, 12'},
-    15: {'Name': 'Rakshasa, Vampire, Angry Sorrowsworn, Star Spawn Seer', 'CR': '10000XP, 13'},
-    16: {'Name': 'Githyanki Supreme Commander', 'CR': '11500XP, 14'},
-    16: {'Name': 'Spellcaster or Warrior Vampire, Green Abishai, Nabassu', 'CR': '13000XP, 15'},
-    17: {'Name': 'Adult Silver Dragon, Steel Predator', 'CR': '15000XP, 16'},
-    18: {'Name': 'Blue Abishai, Nagpa', 'CR': '18000XP, 17'},
-    19: {'Name': 'Red Abishai', 'CR': '22000XP, 19'},
-    18: {'Name': 'Ancient Silver Dragon', 'CR': '50000XP, 23'},
-    19: {'Name': 'Tarrasque', 'CR': '155000XP'},
+    16: {'Name': 'Archmage, Boneclaw, Eidolon, Githyanki Kith-rak, Warlord', 'CR': '8400XP, 12'},
+    17: {'Name': 'Rakshasa, Vampire, Angry Sorrowsworn, Star Spawn Seer', 'CR': '10000XP, 13'},
+    18: {'Name': 'Githyanki Supreme Commander', 'CR': '11500XP, 14'},
+    19: {'Name': 'Spellcaster or Warrior Vampire, Green Abishai, Nabassu', 'CR': '13000XP, 15'},
+    20: {'Name': 'Adult Silver Dragon, Steel Predator', 'CR': '15000XP, 16'},
+    21: {'Name': 'Blue Abishai, Nagpa', 'CR': '18000XP, 17'},
+    22: {'Name': 'Red Abishai', 'CR': '22000XP, 19'},
+    23: {'Name': 'Ancient Silver Dragon', 'CR': '50000XP, 23'},
+    24: {'Name': 'Tarrasque', 'CR': '155000XP'},
 }
+
+
+print(urban[1]['CR'].split(',')[0])
+
