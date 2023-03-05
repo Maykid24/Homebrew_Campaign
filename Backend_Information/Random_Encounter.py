@@ -6,7 +6,10 @@ Random Encounter program
 """
 
 import random
+import Homebrew_Campaign.Backend_Information.Monsters as mn
 
+environments = ['artic', 'coastal', 'desert', 'forest', 'grassland', 'hill', 'mountain', 'swamp', 'underdark',
+                'underwater', 'urban']
 
 xp_thresholds = {
     1: {'Easy': 25, 'Medium': 50, 'Hard': 75, 'Deadly': 100},
@@ -45,17 +48,39 @@ encounter_multipliers = {
 # print(n_of_monsters[1])
 
 number_of_character = 5
+character_level = 3
 
-easy_mode = xp_thresholds[3]['Easy']
-medium_mode = xp_thresholds[3]['Medium']
-hard_mode = xp_thresholds[3]['Hard']
-deadly_mode = xp_thresholds[3]['Deadly']
+difficulty = ['easy', 'medium', 'hard', 'deadly']
 
-level_3_easy = number_of_character * easy_mode
-level_3_medium = number_of_character * medium_mode
-level_3_hard = number_of_character * hard_mode
-level_3_deadly = number_of_character * deadly_mode
+easy_mode = xp_thresholds[character_level]['Easy']
+medium_mode = xp_thresholds[character_level]['Medium']
+hard_mode = xp_thresholds[character_level]['Hard']
+deadly_mode = xp_thresholds[character_level]['Deadly']
 
-print(level_3_easy, "|", level_3_medium, "|", level_3_hard, "|", level_3_deadly)
+level_easy = number_of_character * easy_mode
+level_medium = number_of_character * medium_mode
+level_hard = number_of_character * hard_mode
+level_deadly = number_of_character * deadly_mode
 
+print(level_easy, "|", level_medium, "|", level_hard, "|", level_deadly)
+print(', '.join(environments))
+difficulty_choice = random.choice(difficulty)
+print(difficulty_choice)
+print(random.choice(encounter_multipliers))
+print()
+
+
+def diff_choice():
+    if difficulty_choice == 'easy':
+        print(level_easy)
+
+    elif difficulty_choice == 'medium':
+        print(level_medium)
+    elif difficulty_choice == 'hard':
+        print(level_hard)
+    elif difficulty_choice == 'deadly':
+        print(level_deadly)
+
+
+diff_choice()
 

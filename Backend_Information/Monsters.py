@@ -415,6 +415,11 @@ urban = {
     24: {'Name': 'Tarrasque', 'CR': '155000XP'},
 }
 
+# test = urban[1]['CR'].split(',')[0]
+# print(urban[1]['CR'].split(',')[0])
+# print()
+# print(test.split('XP')[0])
 
-print(urban[1]['CR'].split(',')[0])
+for x in artic:
+    print(artic[x])
 
