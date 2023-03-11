@@ -1,0 +1,72 @@
+*** Religions of each region ***
+
+Land of Ice
+    - Malar - God of the Hunt
+        - Clawed Paw Flag
+
+Gorvan:
+    - Deneir - God of Writing
+        - Lit candle above an open eye
+
+    - Secret:
+        - Bhaal - God of Murder
+            - Skull surrounded by a ring of blood droplets
+
+Twinland Empires
+    - Mystra - Goddess of Magic
+        - Circle of seven stars, or nine stars encircling a flowing red mist, or a single star
+
+Land of Ariel
+    - The Spirits of the Past - Elven Ancestors
+        - Elk with Blood
+
+Swamp Lands
+    - Lathander - God of Birth and Renewal
+        - Road Traveling into a sunrise
+    - Mielikki - Goddess of Forests
+        - Unicorns Head
+
+Mordeau Dynasty
+    - Balinor - God of Beasts and the Hunt
+        - Pair of Antlers
+    - The Fury - Goddess of Wrath and Madness
+        - Winged Wrym with womans head and upper body
+    - Lolth - Drow Goddess of spiders
+        - Spider
+
+Tuskus Dynasty
+    - Gruumsh - Orc God of storms and war
+        - Unblinking Eye
+    - Thrym - God of Frost Giants and Strength
+        - White double-bladed axe
+
+Dwarven Island
+    - Moradin - Dwarf God of Creation
+        - Hammer and Anvil
+
+Triple Dead Islands
+    - The Keeper - God of Greed and Death
+        - Dragonshard stone in the shape of a fang
+
+Land of Iron
+    - Mystra (Twinland)
+    - Gond - God of Craft
+        - Toothed Cog with four spokes
+
+Land of Coal
+    - Secret:
+        - Vecna - God of Evil Secrets
+            - Hand with eye in palm
+
+Triplet Islands
+    - Tymora - Goddess of Good Fortune
+        - Face-up Coin
+    - Raven Queen
+        - Raven
+    - Hiddukel - God of Lies and Greed
+        - Broken Merchant Scales
+
+Land of the Dead
+    - The Travelor - Diety of Chaos and Change
+        - Four Crossed, ruin-inscribed bones
+

@@ -63,24 +63,37 @@ level_hard = number_of_character * hard_mode
 level_deadly = number_of_character * deadly_mode
 
 print(level_easy, "|", level_medium, "|", level_hard, "|", level_deadly)
-print(', '.join(environments))
+print()
 difficulty_choice = random.choice(difficulty)
-print(difficulty_choice)
-print(random.choice(encounter_multipliers))
+# print(difficulty_choice)
+# print(random.choice(encounter_multipliers))
+# print()
+print()
+print(', '.join(environments))
 print()
 
 
-def diff_choice():
-    if difficulty_choice == 'easy':
-        print(level_easy)
-
-    elif difficulty_choice == 'medium':
-        print(level_medium)
-    elif difficulty_choice == 'hard':
-        print(level_hard)
-    elif difficulty_choice == 'deadly':
-        print(level_deadly)
+# user_environment = input("Choose an environment from the above: ")
 
 
-diff_choice()
+# def diff_choice():
+#     if difficulty_choice == 'easy':
+#         print(level_easy)
+#         if user_environment == mn.artic:
+#             print(mn.artic)
+#     elif difficulty_choice == 'medium':
+#         print(level_medium)
+#         if user_environment == mn.artic:
+#             print(mn.artic)
+#     elif difficulty_choice == 'hard':
+#         print(level_hard)
+#         if user_environment == mn.artic:
+#             print(mn.artic)
+#     elif difficulty_choice == 'deadly':
+#         print(level_deadly)
+#         if user_environment == mn.artic:
+#             print(mn.artic)
+#
+#
+# diff_choice()
 

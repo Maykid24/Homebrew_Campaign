@@ -16,3 +16,8 @@ Encounters:
             - Hard: 1,125
             - Deadly: 2,000
 
+    Good Encounters:
+        - Carriages passing by
+        - Random trade wagon
+        - Friendly creatures (Deer, Fox, etc.)
+        - Group of travelers

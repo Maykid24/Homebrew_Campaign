@@ -14,11 +14,11 @@ Harness and Drawn Vehicles:
 
 Ships:
     - Rowboat = 50gp
-    - Keelboat = 3,000gp
-    - Longship = 10,000gp
-    - Sailing Ship = 10,000gp
-    - Warship = 25,000gp
-    - Galley = 30,000gp
+    - Keelboat = 3,000gp (Brig 2 Sails)
+    - Longship = 10,000gp (Sail + Mast)
+    - Sailing Ship = 10,000gp (Pirate Ships)
+    - Warship = 25,000gp (Frigate 3 Sails)
+    - Galley = 30,000gp (1st & 3rd 3 Sails)
 
 Guns/Gunpowder
     - DMG pg. 268
