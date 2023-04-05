@@ -2,13 +2,13 @@
 Utilizing this page as a main page for python code
 """
 
-import Homebrew_Campaign.Backend_Information.Monsters as Monsters
+import random
+
+import Homebrew_Campaign.Backend_Information.Monsters as Mn
+import Homebrew_Campaign.Backend_Information.Random_Encounter as Random_encounter
 import Homebrew_Campaign.Backend_Information.Treasure.hoard_treasure as hoard_treasure
 import Homebrew_Campaign.Backend_Information.Treasure.individual_treasure as individual_treasure
 import Homebrew_Campaign.Main_Page.main_page_list as m_list
-
-# for key, value in Monsters.artic.items():
-#     print(key, value)
 
 
 print(*m_list.main_list, sep='|'.center(14))
@@ -37,6 +37,34 @@ if user_input.lower() == "treasure":
             individual_treasure.individual_challenge1116()
         elif level_difficulty.lower() == "17+":
             individual_treasure.individual_challenge17()
+elif user_input.lower() == "monsters":
+    print(*Random_encounter.environments, sep='|'.center(5))
+    environment_encounter = input("What environment is the encounter in? ")
+    print(Random_encounter.level_easy, "|", Random_encounter.level_medium, "|", Random_encounter.level_hard, "|",
+          Random_encounter.level_deadly)
+    difficulty_encounter = random.choice(Random_encounter.difficulty)
+    print(difficulty_encounter)
+    for i in Mn.monsters_category.keys():
+        if i == environment_encounter.lower():
+            for y in Mn.monsters_category[i].values():
+                cr_xp = y.get('CR').split('XP')[0]
+                cr = int(cr_xp)
+                if difficulty_encounter == 'easy':
+                    if Random_encounter.level_easy >= cr:
+                        print(y.get('Name'))
+                        print(cr)
+                elif difficulty_encounter == 'medium':
+                    if Random_encounter.level_medium >= cr:
+                        print(y.get('Name'))
+                        print(cr)
+                elif difficulty_encounter == 'hard':
+                    if Random_encounter.level_hard >= cr:
+                        print(y.get('Name'))
+                        print(cr)
+                elif difficulty_encounter == 'deadly':
+                    if Random_encounter.level_deadly >= cr:
+                        print(y.get('Name'))
+                        print(cr)
 
 
 

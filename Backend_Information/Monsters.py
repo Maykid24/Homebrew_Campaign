@@ -407,8 +407,8 @@ monsters_category = {
     }
 }
 
-test = monsters_category.get('artic')[1]['CR'].split(','[0])
-print(test[0].split('XP')[0])
+# test = monsters_category.get('artic')[1]['CR'].split(','[0])
+# print(test[0].split('XP')[0])
 # test = urban[1]['CR'].split(',')[0]
 # print(urban[1]['CR'].split(',')[0])
 # print()

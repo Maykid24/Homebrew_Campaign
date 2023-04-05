@@ -62,15 +62,15 @@ level_medium = number_of_character * medium_mode
 level_hard = number_of_character * hard_mode
 level_deadly = number_of_character * deadly_mode
 
-print(level_easy, "|", level_medium, "|", level_hard, "|", level_deadly)
-print()
-difficulty_choice = random.choice(difficulty)
+# print(level_easy, "|", level_medium, "|", level_hard, "|", level_deadly)
+# print()
+# difficulty_choice = random.choice(difficulty)
 # print(difficulty_choice)
 # print(random.choice(encounter_multipliers))
 # print()
-print()
-print(', '.join(environments))
-print()
+# print()
+# print(', '.join(environments))
+# print()
 
 
 # user_environment = input("Choose an environment from the above: ")
