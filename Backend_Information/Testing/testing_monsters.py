@@ -1,6 +1,6 @@
 # Testing area's of the Monster to create Random encounters
 
-import Homebrew_Campaign.Backend_Information.Monsters as Mn
+import Backend_Information.Monsters as Mn
 import random
 from collections import Counter
 

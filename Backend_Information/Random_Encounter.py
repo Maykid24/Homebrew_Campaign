@@ -6,7 +6,7 @@ Random Encounter program
 """
 
 import random
-import Homebrew_Campaign.Backend_Information.Monsters as mn
+import Backend_Information.Monsters as Mn
 
 environments = ['artic', 'coastal', 'desert', 'forest', 'grassland', 'hill', 'mountain', 'swamp', 'underdark',
                 'underwater', 'urban']
@@ -35,12 +35,12 @@ xp_thresholds = {
 }
 
 encounter_multipliers = {
-    1: {'number_of_monsters': '1', 'multiplier': '1'},
-    2: {'number_of_monsters': '2', 'multiplier': '1.5'},
-    3: {'number_of_monsters': '3-6', 'multiplier': '2'},
-    4: {'number_of_monsters': '7-10', 'multiplier': '2.5'},
-    5: {'number_of_monsters': '11-14', 'multiplier': '3'},
-    6: {'number_of_monsters': '15', 'multiplier': '4'}
+    1: {'number_of_monsters': '1', 'multiplier': 1},
+    2: {'number_of_monsters': '2', 'multiplier': 1.5},
+    3: {'number_of_monsters': '3-6', 'multiplier': 2},
+    4: {'number_of_monsters': '7-10', 'multiplier': 2.5},
+    5: {'number_of_monsters': '11-14', 'multiplier': 3},
+    6: {'number_of_monsters': '15', 'multiplier': 4}
 }
 
 # n_of_monsters = encounter_multipliers[5]['number_of_monsters'].split('-')

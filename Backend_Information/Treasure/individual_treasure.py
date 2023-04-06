@@ -2,7 +2,7 @@
     utilizing the Dungeon Master for majority of the treasures with some added spunk"""
 
 import random
-from Homebrew_Campaign.Backend_Information.Treasure.random_dice_roll import RollRandomMoney
+from Backend_Information.Treasure.random_dice_roll import RollRandomMoney
 
 
 def individual_challenge04():

@@ -4,11 +4,11 @@ Utilizing this page as a main page for python code
 
 import random
 
-import Homebrew_Campaign.Backend_Information.Monsters as Mn
-import Homebrew_Campaign.Backend_Information.Random_Encounter as Random_encounter
-import Homebrew_Campaign.Backend_Information.Treasure.hoard_treasure as hoard_treasure
-import Homebrew_Campaign.Backend_Information.Treasure.individual_treasure as individual_treasure
-import Homebrew_Campaign.Main_Page.main_page_list as m_list
+import Backend_Information.Monsters as Mn
+import Backend_Information.Random_Encounter as Random_encounter
+import Backend_Information.Treasure.hoard_treasure as hoard_treasure
+import Backend_Information.Treasure.individual_treasure as individual_treasure
+import Main_Page.main_page_list as m_list
 
 
 print(*m_list.main_list, sep='|'.center(14))
