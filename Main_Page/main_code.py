@@ -11,6 +11,26 @@ import Backend_Information.Treasure.individual_treasure as individual_treasure
 import Main_Page.main_page_list as m_list
 
 
+def number_of_monsters():
+    multiplier = 0
+    random_number = random.randint(1, 15)
+    if random_number == 1:
+        multiplier = 1
+    elif random_number == 2:
+        multiplier = 1.5
+    elif 3 <= random_number <= 6:
+        multiplier = 2
+    elif 7 <= random_number <= 10:
+        multiplier = 2.5
+    elif 11 <= random_number <= 14:
+        multiplier = 3
+    elif random_number == 15:
+        multiplier = 4
+    print("# of Monsters:", random_number)
+    print("Multiplier: ", multiplier)
+
+
+
 print(*m_list.main_list, sep='|'.center(14))
 user_input = input("What would you like to do? ")
 if user_input.lower() == "treasure":
@@ -44,6 +64,7 @@ elif user_input.lower() == "monsters":
           Random_encounter.level_deadly)
     difficulty_encounter = random.choice(Random_encounter.difficulty)
     print(difficulty_encounter)
+    number_of_monsters()
     for i in Mn.monsters_category.keys():
         if i == environment_encounter.lower():
             for y in Mn.monsters_category[i].values():
@@ -65,6 +86,3 @@ elif user_input.lower() == "monsters":
                     if Random_encounter.level_deadly >= cr:
                         print(y.get('Name'))
                         print(cr)
-
-
-

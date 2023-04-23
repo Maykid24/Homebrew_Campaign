@@ -14,7 +14,7 @@ from collections import Counter
 #         print(j)
 
 char_points_test = 1100
-environment = 'artic'
+environment = 'urban'
 
 # print(Mn.monsters_category.get('artic'))
 # print(Mn.monsters_category.get(environment))
@@ -28,11 +28,13 @@ for i in Mn.monsters_category.keys():
     if i == environment:
         print(i)
         for y in Mn.monsters_category[i].values():
-            cr_xp = y.get('CR').split('XP')[0]
-            cr = int(cr_xp)
-            if char_points_test >= cr:
-                print(y.get('Name'))
-                print(cr)
+            print(y.get('Name'))
+        # for y in Mn.monsters_category[i].values():
+        #     cr_xp = y.get('CR').split('XP')[0]
+        #     cr = int(cr_xp)
+        #     if char_points_test >= cr:
+        #         print(y.get('Name'))
+        #         print(cr)
 
 
 count = 0
