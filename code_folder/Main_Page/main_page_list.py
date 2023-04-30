@@ -1,6 +1,7 @@
 main_list = [
     "Treasure",
-    "Monsters"
+    "Monsters",
+    "Encounter"
 ]
 
 difficulty_level = [
