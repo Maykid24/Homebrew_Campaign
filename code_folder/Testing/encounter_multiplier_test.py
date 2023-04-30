@@ -1,6 +1,6 @@
 import random
 
-import Main_Page.Backend_Information.Monsters as Mn
+import main_page.backend_information.monsters as Mn
 
 # multiplier = 0
 # random_number = 0

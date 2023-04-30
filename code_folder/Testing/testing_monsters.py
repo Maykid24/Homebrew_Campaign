@@ -3,7 +3,7 @@
 import os
 os.system("Backend_Information\Monsters.py")
 
-import Main_Page.Backend_Information.Monsters as Mn
+import main_page.backend_information.monsters as Mn
 
 # chat = input("Which environment? ")
 # test = Mn.monsters_category.get(chat)[1]['CR'].split(','[0])

@@ -2,9 +2,9 @@
 
 import random
 
-from Main_Page.Backend_Information.Treasure.random_dice_roll import RollRandomMoney
-from Main_Page.Backend_Information.Treasure.random_dice_roll import random_gem_roll
-from Main_Page.Backend_Information.Treasure.Random_Magic_Items import magic_item_table_a, magic_item_table_b, \
+from main_page.backend_information.treasure.random_dice_roll import RollRandomMoney
+from main_page.backend_information.treasure.random_dice_roll import random_gem_roll
+from main_page.backend_information.treasure.random_magic_items import magic_item_table_a, magic_item_table_b, \
     magic_item_table_c, magic_item_table_d, magic_item_table_e, magic_item_table_f, magic_item_table_g, \
     magic_item_table_h, magic_item_table_i
 

@@ -40,10 +40,6 @@ encounter_multipliers = {
     6: {'number_of_monsters': '15', 'multiplier': 4}
 }
 
-# n_of_monsters = encounter_multipliers[5]['number_of_monsters'].split('-')
-# print(n_of_monsters[0])
-# print(n_of_monsters[1])
-
 number_of_character = 5
 character_level = 3
 
@@ -58,39 +54,3 @@ level_easy = number_of_character * easy_mode
 level_medium = number_of_character * medium_mode
 level_hard = number_of_character * hard_mode
 level_deadly = number_of_character * deadly_mode
-
-# print(level_easy, "|", level_medium, "|", level_hard, "|", level_deadly)
-# print()
-# difficulty_choice = random.choice(difficulty)
-# print(difficulty_choice)
-# print(random.choice(encounter_multipliers))
-# print()
-# print()
-# print(', '.join(environments))
-# print()
-
-
-# user_environment = input("Choose an environment from the above: ")
-
-
-# def diff_choice():
-#     if difficulty_choice == 'easy':
-#         print(level_easy)
-#         if user_environment == mn.artic:
-#             print(mn.artic)
-#     elif difficulty_choice == 'medium':
-#         print(level_medium)
-#         if user_environment == mn.artic:
-#             print(mn.artic)
-#     elif difficulty_choice == 'hard':
-#         print(level_hard)
-#         if user_environment == mn.artic:
-#             print(mn.artic)
-#     elif difficulty_choice == 'deadly':
-#         print(level_deadly)
-#         if user_environment == mn.artic:
-#             print(mn.artic)
-#
-#
-# diff_choice()
-

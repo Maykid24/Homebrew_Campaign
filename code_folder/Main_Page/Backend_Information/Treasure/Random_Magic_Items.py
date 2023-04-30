@@ -4,8 +4,6 @@
 
 import random
 
-# dice_random = random.randint(1, 100)
-
 
 def magic_item_table_a():
     dice_random = random.randint(1, 100)
