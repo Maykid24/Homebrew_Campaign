@@ -1,72 +1,68 @@
 *** Religions of each region ***
 
 Land of Ice
-    - Malar - God of the Hunt
+    - Kord, the Stormlord
         - Clawed Paw Flag
 
 Gorvan:
-    - Deneir - God of Writing
+    - Avandra, the Changebringer
         - Lit candle above an open eye
 
     - Secret:
-        - Bhaal - God of Murder
+        - Bane, the Strife Emperor
             - Skull surrounded by a ring of blood droplets
 
 Twinland Empires
-    - Mystra - Goddess of Magic
+    - Sehanine, the Moonweaver
         - Circle of seven stars, or nine stars encircling a flowing red mist, or a single star
 
 Land of Ariel
-    - The Spirits of the Past - Elven Ancestors
+    - Ioun, the Knowing Mentor
         - Elk with Blood
 
 Swamp Lands
-    - Lathander - God of Birth and Renewal
-        - Road Traveling into a sunrise
-    - Mielikki - Goddess of Forests
-        - Unicorns Head
+    - *Secret:
+        - Zehir, the Cloaked Serpent
+            - Snakes
 
 Mordeau Dynasty
-    - Balinor - God of Beasts and the Hunt
-        - Pair of Antlers
-    - The Fury - Goddess of Wrath and Madness
+    - Bahamut, the Platinum Dragon
         - Winged Wrym with womans head and upper body
-    - Lolth - Drow Goddess of spiders
-        - Spider
+    - *Secret
+        - Lolth, the Spider Queen
+            - Spider
 
 Tuskus Dynasty
-    - Gruumsh - Orc God of storms and war
+    - Gruumsh, the Ruiner
         - Unblinking Eye
-    - Thrym - God of Frost Giants and Strength
-        - White double-bladed axe
 
 Dwarven Island
-    - Moradin - Dwarf God of Creation
+    - Moradin, the Allhammer
         - Hammer and Anvil
 
 Triple Dead Islands
-    - The Keeper - God of Greed and Death
+    - Tharizdun, the Chained Oblivion
         - Dragonshard stone in the shape of a fang
 
 Land of Iron
-    - Mystra (Twinland)
-    - Gond - God of Craft
-        - Toothed Cog with four spokes
+    - Sehanine (Twinland)
+    - *Secret:
+        - Torog, the Crawling King
+            - Toothed Cog with four spokes
 
 Land of Coal
-    - Secret:
-        - Vecna - God of Evil Secrets
+    - *Secret:
+        - Vecna, the Whispered One
             - Hand with eye in palm
 
 Triplet Islands
-    - Tymora - Goddess of Good Fortune
-        - Face-up Coin
-    - Raven Queen
+    - The Raven Queen, Matron of Death
         - Raven
-    - Hiddukel - God of Lies and Greed
+    - Hiddukel - God of Lies and Greed***
         - Broken Merchant Scales
 
 Land of the Dead
-    - The Travelor - Diety of Chaos and Change
-        - Four Crossed, ruin-inscribed bones
+    - *Secret:
+        - Asmodeus, the Lord of the Nine Hells
+            - Masked with horns
 
