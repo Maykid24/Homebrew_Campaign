@@ -58,7 +58,7 @@ Land of Coal
 Triplet Islands
     - The Raven Queen, Matron of Death
         - Raven
-    - Hiddukel - God of Lies and Greed***
+    - Melora, the Wildmother
         - Broken Merchant Scales
 
 Land of the Dead
@@ -66,3 +66,11 @@ Land of the Dead
         - Asmodeus, the Lord of the Nine Hells
             - Masked with horns
 
+Traders Cove
+    - Sarenrae/Raei, the Everlight
+        - Symbol of the sun
+    - * Secret:
+        - Tiamat, the Scaled Tyrant
+            - Dragons
+        - Zehir, the Cloaked Serpent
+            - Snakes

@@ -15,5 +15,5 @@ Leader: Gorgam Glosk (Human Male)
 Religions:
     - The Shadow - God of Dark Magic
         - Obsidian Tower
-    - The Mockery - God of Violence and Treachery
-        - Five Blood spattered tools
+    - Vecna, the Whispered One
+        - Hand with eye in palm

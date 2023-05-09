@@ -11,6 +11,7 @@ import main_page.backend_information.random_encounter as Random_Encounter
 import main_page.main_page_list as m_list
 
 
+
 print(*m_list.main_list, sep='|'.center(14))
 user_input = input("What would you like to do? ")
 if user_input.lower() == "treasure":
