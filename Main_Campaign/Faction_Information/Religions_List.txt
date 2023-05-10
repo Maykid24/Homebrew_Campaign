@@ -8,6 +8,11 @@ Prime Deities:
         She encourages her followers to venture into the unknown. Her nature leads to few temples dedicated 
         to her in the centers of civilization, but they can be found near well traveled roads. Her worshipers 
         include merchants, free spirits and adventurers
+    
+    Aureon
+        Is the patron of wizards and a figure venerated by scholars and librarians. 
+        He is the god of magic as a tool for mortals to use. Although all members of the Host are considered equal, 
+        it is typically written that the Host follows Aureon's guidance because of his vast wisdom.
 
     Bahamut, the Platinum Dragon
         The deity of good-aligned dragons and metallic dragons, being considered the first of their kind. 
@@ -79,6 +84,12 @@ Betrayer Gods
         treachery through her worshipers, deceiving allies and enemies alike to gain power. Her worship is entwined with 
         the drow society across much of Exandria, and her more diverse followers in Xhorhas seek to punish the drow who turned 
         their back on her in favor of the Luxon.
+    
+    The Shadow
+        Is the literal shadow of Aureon that attained sentience and godhood as a price paid by Aureon for arcane knowledge. 
+        A god of corruption, ambition, and dark magic, the Shadow is the patron of evil spellcasters and many monstrous races 
+        throughout Droaam and beyond. Legend says if the Shadow and Aureon were reunited the age of civilized peoples would come to an end.
+        Typically depicted as a shadow, he is occasionally portrayed as a shadow dragon.
 
     Tharizdun, the Chained Oblivion
         Is the mad deity of death and trickery. It dreams the infinite Abyss and its demon hordes into being, 
