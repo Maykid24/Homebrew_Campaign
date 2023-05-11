@@ -14,6 +14,4 @@ Leader: Gorgam Glosk (Human Male)
 
 Religions:
     - The Shadow - God of Dark Magic
-        - Obsidian Tower
-    - Vecna, the Whispered One
-        - Hand with eye in palm
+        - Obsidian Tower / Shadow Dragon
