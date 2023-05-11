@@ -10,7 +10,7 @@ list_test = ["road", "sea"]
 user_input = input("Road or Sea? ")
 while user_input.lower() not in list_test:
     print("Try Again")
-    user_input = input("Road or Sea")
+    user_input = input("Road or Sea? ")
 
 if user_input.lower() == "road":
     print("ROADY")

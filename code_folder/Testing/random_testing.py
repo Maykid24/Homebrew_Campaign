@@ -56,20 +56,19 @@ sea_trip_magic_traps = [
     "Lightning Strike"
 ]
 
+trap_environment = ["road", "sea"]
 
 user_input = input("Road or Sea encounter? ")
 
-while True:
-    try:  
-        if user_input.lower() == "road":
-            print("Difficulty:",random.choice(list(trap_dc.items())))
-            print("Kind of Trap:", random.choice(road_trap))
-            print("Magic:", random.choice(road_trip_magic_traps))
-            break
-        elif user_input.lower() == "sea":
-            print("Difficulty:",random.choice(list(trap_dc.items())))
-            print("Kind of Trap:", random.choice(sea_trap))
-            print("Magic:", random.choice(sea_trip_magic_traps))
-            break
-    except ValueError:
-        print("Sorry, try entering 'Road' or 'Sea'")
+while user_input.lower() not in trap_environment:
+    print("Please select Road or Sea: ")
+    user_input = input("Raod or Sea? ")
+if user_input.lower() == "road":
+    print("Difficulty:",random.choice(list(trap_dc.items())))
+    print("Kind of Trap:", random.choice(road_trap))
+    print("Magic:", random.choice(road_trip_magic_traps))
+elif user_input.lower() == "sea":
+    print("Difficulty:",random.choice(list(trap_dc.items())))
+    print("Kind of Trap:", random.choice(sea_trap))
+    print("Magic:", random.choice(sea_trip_magic_traps))
+
