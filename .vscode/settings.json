@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./code_folder/main_page/backend_information",
+        "./code_folder/main_page/backend_information/traps",
+        "./code_folder/main_page"
+    ]
+}
