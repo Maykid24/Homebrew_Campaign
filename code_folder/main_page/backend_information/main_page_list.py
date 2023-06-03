@@ -13,3 +13,7 @@ difficulty_level = [
     "17+"
 ]
 
+loop_list = [
+    "Yes",
+    "Back"
+]
