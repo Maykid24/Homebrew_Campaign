@@ -1,5 +1,5 @@
 # Bringing everything together from weather aspects
-from weather_table import spring, summer, fall, winter
+from main_page.backend_information.weather.weather_table import spring, summer, fall, winter
 
 
 
@@ -22,5 +22,3 @@ def random_weather():
     elif user_input.lower() == "winter":
         winter()
 
-
-random_weather()

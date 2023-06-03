@@ -10,6 +10,7 @@ import main_page.backend_information.treasure.individual_treasure as individual_
 import main_page.backend_information.random_encounter as Random_Encounter
 import main_page.backend_information.main_page_list as m_list
 import main_page.backend_information.traps.travel_traps as trap_encounters
+import main_page.backend_information.weather.weather_encounter as weather_encounters
 
 
 def front_page():
@@ -49,6 +50,8 @@ def front_page():
         Random_Encounter.random_encounter_chart()
     elif user_input.lower() == "traps":
         trap_encounters.trap_encounters()
+    elif user_input.lower() == "weather":
+        weather_encounters.random_weather()
 
 
 front_page()
