@@ -1,7 +1,10 @@
 import sys
-sys.path.append('C:/Users/patjs/Desktop/Homebrew_Campaign/code_folder/main_page/backend_information')
+import os
 
-import main_page_list as m_list
+os.chdir("code_folder/")
+sys.path.append(os.getcwd())
+
+import main_page.backend_information.main_page_list as m_list
 
 
 print(m_list.main_list)
