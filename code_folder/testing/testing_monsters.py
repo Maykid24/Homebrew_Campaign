@@ -1,9 +1,12 @@
-# Testing area's of the Monster to create Random encounters
-
+import sys
 import os
-os.system("Backend_Information\Monsters.py")
+
+
+os.chdir("code_folder/")
+sys.path.append(os.getcwd())
 
 import main_page.backend_information.monsters as Mn
+import itertools
 
 # chat = input("Which environment? ")
 # test = Mn.monsters_category.get(chat)[1]['CR'].split(','[0])
@@ -15,7 +18,7 @@ import main_page.backend_information.monsters as Mn
 #         print(j)
 
 char_points_test = 1100
-environment = 'urban'
+environment = 'underdark'
 
 # print(Mn.monsters_category.get('artic'))
 # print(Mn.monsters_category.get(environment))
@@ -29,7 +32,13 @@ for i in Mn.monsters_category.keys():
     if i == environment:
         print(i)
         for y in Mn.monsters_category[i].values():
-            print(y.get('Name'))
+            name_array = []
+            name = y.get('Name')
+            print(name)
+            
+            
+            
+            
         # for y in Mn.monsters_category[i].values():
         #     cr_xp = y.get('CR').split('XP')[0]
         #     cr = int(cr_xp)
