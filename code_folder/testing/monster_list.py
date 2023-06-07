@@ -121,7 +121,7 @@ underdark = ['Giant Fire Beetle', 'Shrieker', 'Myconid Sprout', 'Cranium Rat', '
              'Males Steeder', 'Oblex Spawn', 'Wretched Sorrwsworn', 'Darkmantle', 'Deep Gnome', 'Gas Spore', 'Gray Ooze', 'Hobgoblin', 'Magma Mephit', 
              'Myconid Adult', 'Orc', 'Piercer', 'Rust Monster', 'Scout', 'Shadow', 'Swarm of Insects', 'Chitine', 'Darkling', 'Firenewt Warrior', 'Gazer', 
              'Skulk Swarm of Rot Grubs', 'Bugbear', 'Duergar', 'Fire Snake', 'Ghoul', 'Giant Spider', 'Giant Toad', 'Goblin Boss', 'Half-Ogre', 
-             'Kuo-Toa Whip', 'Quaggoth Spore Servant', 'Specter', 'Choker', 'Duergar Soulblade', 'Female Steeder', 'firenewt Warlock of Imix', 
+             'Kuo-Toa Whip', 'Quaggoth Spore Servant', 'Specter', 'Choker', 'Duergar Soulblade', 'Female Steeder', 'Firenewt Warlock of Imix', 
              'Giant Strider', 'Kobold Dragonshield', 'Kobold Scale Sorcerer', 'Maw Demon', 'Meazel', 'Nilbog', 'Vargouille', 'Xvart Warlock of Raxivort',
              'Carrion Crawler', 'Druid', 'Gargoyle', 'Gelatinous Cube', 'Ghast', 'Giant Constrictor Snake', 'Gibbering Mouther', 'Girck', 'Intellect Devourer', 
              'Mimic, Minotaur Skeleton', 'Nothic', 'Ochre Jelly', 'Ogre', 'Orc Eye of Gruumsh', 'Orog', 'Polar Bear (Cave Bear)', 'Quaggoth', 'Adult Kruthik', 
@@ -170,6 +170,6 @@ urban = ['Cat', 'Commoner', 'Goat', 'Rat', 'Raven', 'Cranium Rat', 'Bandit', 'Cu
 
 
 
-artic.sort()
+underdark.sort()
 
-print(*artic, sep="\n")
+print(*underdark, sep="\n")
