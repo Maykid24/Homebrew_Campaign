@@ -81,4 +81,52 @@ In the boxes Total:
   - All lights turn green which gives a magical spark that all lights point to the massive crystal above and the crystal shoots a beam directly downwards creating a massive 20 foot portal for the group to jump into to exit
 
 #### Turn Order Mechanics:
-- 
+- Each time a new creature comes into this time loop all other characters are teleported back to the portal as a reset
+
+*The below only happens after all creatures are in the time loop*
+- For the **first 6 turns**:
+  - Every 2 turns the characters get teleported back to the portal if not solved yet
+- After 6 turns:
+  - Roll 1d4
+  1. At the end of 1 turn, characters are teleported back to the portal 
+  2. At the end of 2 turns, characters are teleported back to the portal
+  3. At the end of 3 turns, characters are teleported back to the portal
+  4. At the end of 4 turns, characters are teleported back to the portal
+
+### If characters are having a difficult time:
+
+- Give very subtle hints if the characters are not getting it to keep progressing through
+- Give the ability to see different aspects and point out things that they may not pick up on right off the bat, but don't fully give it away
+- Somewhat nudge the characters in the right direction
+
+
+***
+
+## After the portal Time Loop
+
+### Ship: The Fallen
+
+#### Captain: Sarphina Stormblade:
+- Human 
+  - Female
+  - Voice:
+    - Comanding and authoritative with a hint of a sea-salted accent, her voice captures attention when she speaks
+  - Tall and proud, stong and athletic build. Ocean Blue eyes and her raven-black hair cascades down her shoulders adorned with trnkets and sea-inspired charms. Rough scars on her forearms and hands. Studded leather armor with regal flair, adorned with emblems of her crew. 
+#### Second Mate: Kaelar Blackwater
+- Half-Elf
+  - Male
+  - Voice
+    - Smooth and confident, with a hint of mischief in his voice
+  - Grace and charm characteristic. Wavy chestnut hair and piercing emerald eyes. Stylish combination of dark clothing and leather armor. Confident grin, coupled with a touch of roguish flair, captures the hearts of those who cross paths with him
+
+#### Tattoo Artist: Liara Emberfury
+- Tiefling
+  - Female
+  - Voice:
+    - Enigmatic and alluring, with a voice that draws people in like a mesmerizing melody, Liara's presence is captivating
+  - Her appearance sets her apart from the others. Crimson skin and sharp horns display her tiefling heritage with pride. Her eyes shimmer like amber embers, reflecting an innate enchantment. Intricate tattoos cover her arms and collarbone, glowing with a faint of magical light. Has small trinkets and intricate jewlery. She moves her tail gracefully adding to her presence. Has a captivating gaze and warm smile.
+
+
+### Ship is setting sail out of Zale
+- Up to the group of how they decide how this will all pan out or convince the crew to go back to Zale or continue forward with the crew and ship to the next journey.
+  - Ship is heading to the Dwarven Islands to do some trade and pay off some debts that is needed for the crew to be free of their obligations
