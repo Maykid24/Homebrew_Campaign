@@ -64,3 +64,14 @@ Liara Emberfury, a talented tattoo artist, embraces her tiefling heritage and us
 Together, they navigate the treacherous waters, seeking adventure, fortune, and a chance to make a difference in their war-torn world aboard the *The Fallen*. As their bond strengthens, they become a formidable force, ready to face any challenge that comes their way.
 
 As the campaign unfolds, these characters' stories and abilities will evolve, shaping the narrative of your thrilling pirate campaign. Enjoy the adventure!
+
+# Additonal Crew
+
+## Darron
+- Random crew mate that is brand new to the ship
+
+## Agom Kon
+- Friend of Borky from Prison
+
+## Hodof Duv
+- Chef of the ship
