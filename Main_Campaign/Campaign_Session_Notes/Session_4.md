@@ -2,7 +2,9 @@
 
 In the boxes Total:
 - 2 Bag of Holdings
+  - 1 to Bob
 - 2 Potion of Healing
+  - 1 to Bob
 - 1 Potion of Greater Healing
 - 1 Scroll of Bless
 - 1 Potion of Magic Missile
@@ -70,7 +72,7 @@ In the boxes Total:
     - Able to investigate the room to find the hidden treasure:
       - **DC: 15**
       - **Magic Item:**
-        - Eversmoking Bottle
+        - Healers Staff
 
 ***
 
