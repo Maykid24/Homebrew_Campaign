@@ -1,0 +1,9 @@
+## Session 5 Recap - September 10, 2023
+
+- Group made contact with Zehmar and got some additional information regarding the bloody hands. The group found out that Zehmar and Saraphina both knew each other.
+- The group also figured out what was needed and the plan to steal back the boxes. After arriving in Kardim, the group started to follow Saraphina and the Dwarf individual that they were tasked to steal the boxes back from
+- The group followed the Dwarf and his group through trails and alleys finally getting to the point of getting ambushed. When asked what the groups intentions were, Nessa stated they were looking for the Pub. Mara jumped in to state that Darron was a little nervous and needed some alcohol to loosen up. However, Thromram saw right through it and within seconds Darron spilled out everything of who wanted the boxes back and that they were sent to retrieve it for Saraphina.
+- Seraphina lost the best to Thromram and sent Darron to go with the fishes. Shortly after Debelyn arrived and ranted at Thromram for not telling her that Saraphina was in town. 
+- The group found out that Saraphina did this to see who would tell and who wouldn't to determine a few things for herself. The group found out that the bloody hands tried to explode the walls of the city. The group went to the last location of the bloody hands and found the room along with notes.
+- After putting a note back in wanting to wait 7 days for the return of the individual. During this time Mara and the group went into the tavern and started arm wrestling a dwarf and after a while of going back and forth Mara won overall, winning some coin.
+- The group went to their rooms and rested.
