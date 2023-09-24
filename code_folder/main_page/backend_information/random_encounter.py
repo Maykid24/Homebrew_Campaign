@@ -46,7 +46,7 @@ encounter_multipliers = {
 }
 
 number_of_character = 5
-character_level = 3
+character_level = 4
 
 difficulty = ['easy', 'medium', 'hard', 'deadly']
 
