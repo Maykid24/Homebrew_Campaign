@@ -639,6 +639,7 @@
         - Arva Struldirr / Age: 255 / White hair, tiny white beard
         - Dwarf Female
         - Always seems to have a potion in her hand along with being right up next to people when she talks
+        - Artillerist specialty
 
 - **Shipyard:**
     1. Arrow Point Port
