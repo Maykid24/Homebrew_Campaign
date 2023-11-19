@@ -122,22 +122,33 @@ def random_monsters():
     for i in Mn.monsters_category.keys():
         if i == environment_encounter.lower():
             for y in Mn.monsters_category[i].values():
-                cr_xp = y.get('CR').split('XP')[0]
-                cr = int(cr_xp)
-                if difficulty_encounter == 'easy':
-                    if Random_Encounter.level_easy >= cr:
-                        print(y.get('Name'))
-                        print(cr)
-                elif difficulty_encounter == 'medium':
-                    if Random_Encounter.level_medium >= cr:
-                        print(y.get('Name'))
-                        print(cr)
-                elif difficulty_encounter == 'hard':
-                    if Random_Encounter.level_hard >= cr:
-                        print(y.get('Name'))
-                        print(cr)
-                elif difficulty_encounter == 'deadly':
-                    if Random_Encounter.level_deadly >= cr:
-                        print(y.get('Name'))
-                        print(cr)
+                cr_xp = y.get('CR')
+                
+                # Check if 'CR' is not None before trying to split
+                if cr_xp is not None:
+                    try:
+                        # Try to split the string using 'XP' as a separator
+                        cr_xp = cr_xp.split('XP')[0]
+                    except AttributeError:
+                        # Handle the case where 'CR' is not a string with 'XP'
+                        print("Invalid 'CR' format for monster:", y.get('Name'))
+                        continue
+                # Convert 'cr_xp' to an integer
+                    cr = int(cr_xp)
+                    if difficulty_encounter == 'easy':
+                        if Random_Encounter.level_easy >= cr:
+                            print(y.get('Name'))
+                            print(cr)
+                    elif difficulty_encounter == 'medium':
+                        if Random_Encounter.level_medium >= cr:
+                            print(y.get('Name'))
+                            print(cr)
+                    elif difficulty_encounter == 'hard':
+                        if Random_Encounter.level_hard >= cr:
+                            print(y.get('Name'))
+                            print(cr)
+                    elif difficulty_encounter == 'deadly':
+                        if Random_Encounter.level_deadly >= cr:
+                            print(y.get('Name'))
+                            print(cr)
 
