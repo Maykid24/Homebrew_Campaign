@@ -1,6 +1,5 @@
 import random
-from code_folder.main_page.backend_information.treasure import random_magic_items as rmi
-
+import code_folder.main_page.backend_information.treasure.random_magic_items as rmi
 
 
 class Mission:
@@ -89,7 +88,7 @@ class RandomMissionMaker:
                 rewards.append(f"{amount} gold coins")
             elif reward_type == "Magic Item":
                 table_selector = random.randint(1, 9) 
-                magic_item = None  # Initialize magic_item variable
+                magic_item = ""
                 if table_selector == 1:
                     magic_item = rmi.magic_item_table_a()
                 elif table_selector == 2:
@@ -108,7 +107,8 @@ class RandomMissionMaker:
                     magic_item = rmi.magic_item_table_h()
                 elif table_selector == 9:
                     magic_item = rmi.magic_item_table_i()
-                rewards.append(f"Magic item: {magic_item}")
+                if magic_item is not None:
+                    rewards.append(f"Magic item: {magic_item}")
             elif reward_type == "Experience Points":
                 xp_amount = random.randint(100, 500)  # Adjust the range as needed
                 rewards.append(f"{xp_amount} experience points")
