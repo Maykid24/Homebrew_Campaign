@@ -20,7 +20,8 @@ Shortly after, a Bullette started to come closer and closer to the group which m
 
 Once back into the city the group stopped at the Dirty Jug where Marissa saw the potion for Bob, as Bob drank the potion he started to have a memory overload transfer. While that was occurring Marissa also got the Arva to give over the bracelet. 
 
-Shortly after the group went to Tordek (The Smelt Belt) to discuss about melting down some ore
+Shortly after the group went to Tordek (The Smelt Belt) to discuss about melting down some ore:
+
     - 11lbs Adamantine
         - x2 Longsword +1
     - 8lbs Gold
