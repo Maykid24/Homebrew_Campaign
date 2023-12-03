@@ -15,7 +15,7 @@ def random_gem_roll(gem):
         for i in range(int(gem[0])):
             roll = random.randint(1, int(gem[2]))
             gem_sum_roll = gem_sum_roll + roll
-        print(f"Gems:", gem_sum_roll)
+        print("Gems:", gem_sum_roll)
     else:
         print("Nothing")
 
