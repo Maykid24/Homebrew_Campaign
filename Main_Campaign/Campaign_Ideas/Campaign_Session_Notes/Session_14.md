@@ -4,7 +4,7 @@
     - The group awakes to find that everything is there
 
 - 2 books
-    - 1. Book on the origin of the Shadow
+    - 1. Book on the Origin of the Shadow
         - Knowledge of how the shadow and the dragon came to be, finds out that the group that actually released the dragon and the shadow was the same group the trapped them and words trail off
     - 2. Book on Bloody Hands
         - Only able to see what is in the book by using a magnifying glass from the chest
@@ -16,9 +16,14 @@
 
 - 1 chest
     - Maginfying Glass
+    - Scroll
 - Stack of papers
     - Relates to different sections of the world of where they attacked, how to attack
     - Hideout bases
         - Land of Coal
         - Triplet Islands
         - Mordeau Dynasty
+
+- Time travels slow in the land of secrets
+    - 1 Hour is 1 week
+

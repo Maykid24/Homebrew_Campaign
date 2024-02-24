@@ -1,4 +1,4 @@
-## Session 12 - Recap
+## Session 13 - Recap
 
 - Group went down into the library, going through multiple different halls to finally get to the book. Bob immediately opens the book at the group gets teleported to the Secret Island to find an old city that no longer lives. 
 - The Silver hands investigated the ruins and found a house with bloody hands materials
