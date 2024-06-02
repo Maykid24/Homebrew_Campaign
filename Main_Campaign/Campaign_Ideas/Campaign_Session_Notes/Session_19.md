@@ -17,3 +17,9 @@
     - Group is in the cavern next to the box with the artifact 
 
 - Group grabs artifact and lands in the Land of the Dead
+
+---
+
+1. Group meets The Unseen Syndicate, Bob destroys the magical sword once they were dropped into a pit. The group then teleports and ends up in the Elven Library
+2. Bob opens up a book and the group is then teleported to the Astral Planes and talked to Celestials. Group then got 2 Divine Interventions to be utilized at anytime
+3. Group then goes to Zale and goes to the pond to find the artifact deep into the cavern. The group then goes through an entire plan that ultimately fails instantly. The group then grabs the artifact, gets teleported to the Land of the Dead where the sessions ended.
